@@ -1,0 +1,14 @@
+var myString;
+var myNum;
+var myBool;
+var myVar;
+var strArr;
+var numArr;
+var strNumTuple;
+myString = 'Hello World!';
+myNum = 22;
+myBool = true;
+myVar = 5;
+strArr = ['Hello', 'world'];
+numArr = [1, 2, 3];
+console.log(numArr);
